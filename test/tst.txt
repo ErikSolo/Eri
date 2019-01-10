@@ -1,0 +1,1 @@
+SQL> spool D:\tst.sql
