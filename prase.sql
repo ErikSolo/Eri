@@ -21,4 +21,4 @@ BEGIN DBMS_OUTPUT.PUT_LINE(DBMS_DB_VERSION.VERSION || '.' || DBMS_DB_VERSION.REL
 SELECT * FROM V$VERSION;
 SELECT * FROM V$INSTANCE;
 ----------------------------------------------------------------------------------------
-SELECT * FROM V$NLS_PARAMETERS;
+SELECT * FROM V$NLS_PARAMETERS; asd
