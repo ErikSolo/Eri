@@ -1,4 +1,3 @@
-                                                        
 DECLARE
 TYPE num_t IS TABLE OF number index by binary_integer;
      l_count_t num_t;
